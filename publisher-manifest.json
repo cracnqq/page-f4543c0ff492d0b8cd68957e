@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "0ff04fb5f26a240f18b54f7d",
+  "owner": "cracnqq",
+  "repo": "page-f4543c0ff492d0b8cd68957e",
+  "title": "Miru",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f4543c0ff492d0b8cd68957e",
+      "a": "Miru",
+      "b": "2027官方最新地址导航",
+      "entity": "Miru",
+      "brand": "Miru",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "97ad3b97912583e854eaead1ce2406059ad7a139e50e5bdd1aea2172f8c63456",
+      "content": {
+        "primary_entity": "Miru",
+        "keyword1": "Miru",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，订阅配置会更省心。",
+          "AI_CLIENTS_TITLE": "各设备可用客户端参考",
+          "AI_CLOSING_TEXT": "对比流量与设备数，按使用人数选定套餐即可开始。",
+          "AI_CLOSING_TITLE": "选对套餐再连接",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，覆盖单人、家庭到小型团队的使用场景。每月流量从 100GB 到 1000GB，设备支持从 3 台到 20 台，可按需要灵活切换。日常轻量使用选基础版，多设备流媒体与游戏加速选旗舰版，多人共享选团队版。",
+          "AI_FEATURES_INTRO": "按流量、设备数与订阅周期三项对照，选套餐更直观。",
+          "AI_FEATURES_TITLE": "套餐选择的三个关注点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB，按日常用量匹配即可。",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，手机、平板与电脑可按需分配。",
+          "AI_FEATURE_TEXT_3": "月付适合短期体验，年付更划算，基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850。",
+          "AI_FEATURE_TITLE_1": "按流量定档",
+          "AI_FEATURE_TITLE_2": "按设备数量",
+          "AI_FEATURE_TITLE_3": "按付费周期",
+          "AI_GUIDE_INTRO": "从选套餐到导入订阅，按三步完成配置。",
+          "AI_GUIDE_TITLE": "订阅配置三步走",
+          "AI_HERO_INTRO": "Miru 提供多档海外加速订阅，适合流媒体播放、游戏加速和日常跨区访问。按设备数量与月流量选择套餐，再依据对应客户端文档完成订阅配置，即可在常用设备上使用。",
+          "AI_HERO_SUBTITLE": "多档订阅覆盖日常与团队使用",
+          "AI_HIGHLIGHT_1": "三档套餐按设备数灵活选择",
+          "AI_HIGHLIGHT_2": "月付年付自由切换更省心",
+          "AI_HIGHLIGHT_3": "主流客户端按设备分别配置",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，对比流量与设备数后选择。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "先看每月流量与常用设备数量，单人轻量用基础版，多设备或游戏加速用旗舰版，多人共享用团队版。",
+          "AI_STEP_TEXT_2": "确认设备客户端是否在支持列表内，并按各平台文档准备订阅链接与配置方式。",
+          "AI_STEP_TEXT_3": "在所选客户端内导入订阅，按文档完成节点选择与连接，即可开始使用。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅并连接",
+          "AI_VISUAL_TITLE": "Miru 套餐选择一览",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。可以按家里手机、电脑、平板等常用设备的总数来选。",
+          "AI_FAQ_ANSWER_2": "轻度使用每月 100GB 的基础版够用；有流媒体和游戏加速需求可选每月 300GB 的旗舰版；多人共用或设备较多再考虑每月 1000GB 的团队版。",
+          "AI_FAQ_ANSWER_3": "可以，年付价格低于按月支付。基础版按年付 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。",
+          "AI_FAQ_ANSWER_4": "不同客户端导入订阅的操作入口不一样，按照所用客户端自带的订阅配置文档操作，把订阅地址粘贴进去后更新节点即可。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线游戏加速优化和全节点原生流媒体解锁；团队版提供 VIP 专属高带宽节点并支持企业定制路由。",
+          "AI_FAQ_INTRO": "订阅导入、设备数量、流量需求与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个套餐可以几台设备同时使用？",
+          "AI_FAQ_QUESTION_2": "每月 100GB 流量够用吗？",
+          "AI_FAQ_QUESTION_3": "按年付和按月付价格有区别吗？",
+          "AI_FAQ_QUESTION_4": "订阅地址应该怎么导入客户端？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版在流媒体、游戏方面有什么不同？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "junfawangluo.cn",
+    "host": "junfawangluo.cn"
+  },
+  "file_hashes": {
+    "index.html": "78a9adef2da478eee788bf1f9453c82f8788cd93679ce38d69ca2bbae0c96a3a",
+    "sitemap.xml": "9a2afe10d5065c3cab594e87a4e6e8998d0daf42d9a73b06ed406e259e401b0b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "63726a867ee08a8b481306f46aa000e6dcbd0b841a59550f74a732af04e95b47",
+    "robots.txt": "1405d329db8ffb593e11e8f8be8572df4d8d4bb4c8809923cd15a9b31b828653",
+    "42be563d23875f399f6b5dc21e504744.txt": "51e7ac0f9af8866498fa9e281b236303beaba3c46ac0279600b6d07e08eb4577"
+  },
+  "revision": "6c67e4bdbc4f6fe685e65c7705f4238230e3e56fefe38934935e4d49e01e816a"
+}
